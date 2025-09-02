@@ -3,7 +3,7 @@
 **Senior BIE | Data Analytics & Modeling | Pioneering GenAI Solutions**
 I’m also exploring **AI/ML projects** and building **solutions for circular economy and parent support tools**.
 
-**Key Expertise Areas (Bullets or Sections):**
+## Key Expertise Areas (Bullets or Sections):
 Data Analytics & Visualization: SQL (advanced), Python (Pandas, NumPy), Tableau, Power BI, ClicData
 Data Modeling & Warehousing: Dimensional Modeling, ETL/ELT, Snowflake, Redshift, BDT
 Generative AI & Machine Learning: LLMs, Prompt Engineering, MLOps concepts
