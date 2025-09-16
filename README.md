@@ -9,14 +9,6 @@ Data Modeling & Warehousing: Dimensional Modeling, ETL/ELT, Snowflake, Redshift,
 Generative AI & Machine Learning: LLMs, Prompt Engineering, MLOps concepts
 Cloud Platforms: AWS (S3, EC2, Lambda, SageMaker), Azure, Google Colab
 
-## My Work
-- Inventory Defect Dashboard – [link to repo]
-- FBA Defect Classifier – [link to repo]
-- I Will Circle Back (Circular Economy) – [link to repo]
 
 ## Connect with me
-- LinkedIn: [your-link](https://linkedin.com/in/your-link)
-- Twitter: [your-link](https://twitter.com/your-link)
-- Portfolio: [your-link](https://your-portfolio-link.com)## Hi there 👋
-
-
+- LinkedIn: (https://www.linkedin.com/in/sherry-aggarwal-a2207535/)
